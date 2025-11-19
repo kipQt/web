@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.422 9.938">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0581c5;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path id="Icon_material-email" data-name="Icon material-email" class="cls-1" d="M11.179,0H1.243A1.24,1.24,0,0,0,.006,1.243L0,8.7A1.246,1.246,0,0,0,1.243,9.938h9.936A1.246,1.246,0,0,0,12.422,8.7V1.243A1.246,1.246,0,0,0,11.179,0Zm0,2.485L6.211,5.59l-4.968-3.1V1.243l4.968,3.1,4.968-3.1Z"/>
+    </g>
+  </g>
+</svg>

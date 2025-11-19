@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.695 12.421">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0581c5;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path id="Icon_material-location-on" data-name="Icon material-location-on" class="cls-1" d="M4.347,0A4.344,4.344,0,0,0,0,4.341v.006c0,3.261,4.347,8.074,4.347,8.074S8.7,7.608,8.7,4.347A4.344,4.344,0,0,0,4.354,0Zm0,5.9A1.553,1.553,0,1,1,5.9,4.347,1.552,1.552,0,0,1,4.347,5.9Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.421 12.421">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0581c5;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path id="Icon_material-access-time" data-name="Icon material-access-time" class="cls-1" d="M6.2,0a6.211,6.211,0,1,0,.013,0ZM6.21,11.179a4.969,4.969,0,1,1,4.969-4.968A4.969,4.969,0,0,1,6.21,11.179h0Zm.311-8.074H5.59V6.833L8.85,8.789l.466-.764-2.8-1.657Z"/>
+    </g>
+  </g>
+</svg>

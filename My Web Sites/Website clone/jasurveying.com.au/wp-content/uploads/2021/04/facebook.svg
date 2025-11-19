@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.042 13.043">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #002d46;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path id="Icon_awesome-facebook-square" data-name="Icon awesome-facebook-square" class="cls-1" d="M11.645,0H1.4A1.4,1.4,0,0,0,0,1.4V11.645a1.4,1.4,0,0,0,1.4,1.4h4V8.608H3.559V6.521H5.393V4.931A2.547,2.547,0,0,1,8.12,2.122a11.073,11.073,0,0,1,1.616.14V4.038h-.91A1.044,1.044,0,0,0,7.649,5.166V6.521h2l-.32,2.087H7.649v4.434h4a1.4,1.4,0,0,0,1.4-1.4V1.4a1.4,1.4,0,0,0-1.4-1.4Z"/>
+    </g>
+  </g>
+</svg>

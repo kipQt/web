@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Jul 2025 15:11:54 at https://jasurveying.com.au/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jasurveying.com.au/ -O1 "C:\My Web Sites\Website clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:12:35	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/xmlrpc.php (from https://jasurveying.com.au/)
+15:12:38	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/10 (from https://jasurveying.com.au/)
+15:12:38	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/xmlrpc.php?rsd (from https://jasurveying.com.au/)
+15:14:29	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/contact/ (from https://jasurveying.com.au/)
+15:14:29	Warning: 	Moved Permanently for https://jasurveying.com.au/services/boundary-disputes/
+15:14:29	Warning: 	Warning moved treated for https://jasurveying.com.au/services/boundary-disputes/ (real one is https://jasurveying.com.au/wp-content/uploads/2021/04/boundary-disputes.svg)
+15:14:29	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/256 (from https://jasurveying.com.au/about/)
+15:14:29	Warning: 	Moved Permanently for https://jasurveying.com.au/?p=256
+15:14:29	Warning: 	File has moved from https://jasurveying.com.au/?p=256 to https://jasurveying.com.au/about/
+15:14:29	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/258 (from https://jasurveying.com.au/services/)
+15:14:29	Warning: 	Moved Permanently for https://jasurveying.com.au/?p=258
+15:14:29	Warning: 	File has moved from https://jasurveying.com.au/?p=258 to https://jasurveying.com.au/services/
+15:14:30	Error: 	"Not Found" (404) at link https://jasurveying.com.au/services/building-roads-and-civil-infrastructure (from https://jasurveying.com.au/services/)
+15:14:30	Error: 	"Not Found" (404) at link https://jasurveying.com.au/services/property-development-and-subdivisions (from https://jasurveying.com.au/services/)
+15:14:30	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/619 (from https://jasurveying.com.au/services/aerial-drone-surveying/)
+15:14:30	Warning: 	Moved Permanently for https://jasurveying.com.au/?p=619
+15:14:30	Warning: 	File has moved from https://jasurveying.com.au/?p=619 to https://jasurveying.com.au/services/aerial-drone-surveying/
+15:14:30	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/270 (from https://jasurveying.com.au/services/building-roads-civil-infrastructure/)
+15:14:30	Warning: 	Moved Permanently for https://jasurveying.com.au/?p=270
+15:14:30	Warning: 	File has moved from https://jasurveying.com.au/?p=270 to https://jasurveying.com.au/services/building-roads-civil-infrastructure/
+15:14:30	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/266 (from https://jasurveying.com.au/services/property-development-subdivisions/)
+15:14:30	Warning: 	Moved Permanently for https://jasurveying.com.au/?p=266
+15:14:30	Warning: 	File has moved from https://jasurveying.com.au/?p=266 to https://jasurveying.com.au/services/property-development-subdivisions/
+15:14:30	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/268 (from https://jasurveying.com.au/services/buying-or-building-a-house/)
+15:14:30	Warning: 	Moved Permanently for https://jasurveying.com.au/?p=268
+15:14:30	Warning: 	File has moved from https://jasurveying.com.au/?p=268 to https://jasurveying.com.au/services/buying-or-building-a-house/
+15:14:30	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/272 (from https://jasurveying.com.au/services/boundary-dispute/)
+15:14:30	Warning: 	Moved Permanently for https://jasurveying.com.au/?p=272
+15:14:30	Warning: 	File has moved from https://jasurveying.com.au/?p=272 to https://jasurveying.com.au/services/boundary-dispute/
+15:14:31	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/260 (from https://jasurveying.com.au/what-to-expect/)
+15:14:31	Warning: 	Moved Permanently for https://jasurveying.com.au/?p=260
+15:14:31	Warning: 	File has moved from https://jasurveying.com.au/?p=260 to https://jasurveying.com.au/what-to-expect/
+15:14:31	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/262 (from https://jasurveying.com.au/faq/)
+15:14:31	Warning: 	Moved Permanently for https://jasurveying.com.au/?p=262
+15:14:31	Warning: 	File has moved from https://jasurveying.com.au/?p=262 to https://jasurveying.com.au/faq/
+15:14:31	Error: 	"reauthentication required" (418) at link https://jasurveying.com.au/wp-json/wp/v2/pages/576 (from https://jasurveying.com.au/careers/)
+15:14:31	Warning: 	Moved Permanently for https://jasurveying.com.au/?p=576
+15:14:31	Warning: 	File has moved from https://jasurveying.com.au/?p=576 to https://jasurveying.com.au/careers/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 42 seconds : 168 links scanned, 139 files written (12295055 bytes overall) [9164684 bytes received at 56572 bytes/sec], 4367612 bytes transferred using HTTP compression in 95 files, ratio 22%, 5.9 requests per connection
+(16 errors, 22 warnings, 0 messages)
